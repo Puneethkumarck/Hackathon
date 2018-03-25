@@ -50,7 +50,7 @@ Some of the pricing policies used are
 
 In memory H2 database is configured as an internal testing db. Some of the Entities are 
 
--User
+- User
 - Product
 - Brand
 - Category
