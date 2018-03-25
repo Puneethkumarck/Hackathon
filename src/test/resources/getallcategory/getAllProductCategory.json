@@ -1,0 +1,42 @@
+{
+  "content": [
+    {
+      "categoryName": "Shirts",
+      "id": 1
+    },
+    {
+      "categoryName": "Trousers",
+      "id": 2
+    },
+    {
+      "categoryName": "Shoes",
+      "id": 3
+    },
+    {
+      "categoryName": "T-Shirts",
+      "id": 4
+    }
+  ],
+  "pageable": {
+    "sort": {
+      "sorted": false,
+      "unsorted": true
+    },
+    "offset": 0,
+    "pageSize": 20,
+    "pageNumber": 0,
+    "unpaged": false,
+    "paged": true
+  },
+  "last": true,
+  "totalPages": 1,
+  "totalElements": 4,
+  "size": 20,
+  "number": 0,
+  "sort": {
+    "sorted": false,
+    "unsorted": true
+  },
+  "numberOfElements": 4,
+  "first": true
+}

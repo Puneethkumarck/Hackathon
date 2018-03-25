@@ -1,0 +1,51 @@
+{
+  "content": [
+    {
+      "brandName": "Zara",
+      "prdStore": [],
+      "id": 1
+    },
+    {
+      "brandName": "UCB",
+      "prdStore": [],
+      "id": 2
+    },
+    {
+      "brandName": "Louis Philippe",
+      "prdStore": [],
+      "id": 3
+    },
+    {
+      "brandName": "Wrogn",
+      "prdStore": [],
+      "id": 4
+    },
+    {
+      "brandName": "Levi's",
+      "prdStore": [],
+      "id": 5
+    }
+  ],
+  "pageable": {
+    "sort": {
+      "sorted": false,
+      "unsorted": true
+    },
+    "offset": 0,
+    "pageSize": 20,
+    "pageNumber": 0,
+    "unpaged": false,
+    "paged": true
+  },
+  "last": true,
+  "totalPages": 1,
+  "totalElements": 5,
+  "size": 20,
+  "number": 0,
+  "sort": {
+    "sorted": false,
+    "unsorted": true
+  },
+  "numberOfElements": 5,
+  "first": true
+}

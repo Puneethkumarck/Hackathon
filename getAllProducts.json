@@ -1,0 +1,186 @@
+{
+  "content": [
+    {
+      "id": 1,
+      "price": 500,
+      "name": null,
+      "sex": "Kid",
+      "url": "t-shirt.png",
+      "description": "Kid's Polo T-Shirt"
+    },
+    {
+      "id": 2,
+      "price": 1000,
+      "name": null,
+      "sex": "Woman",
+      "url": "t-shirt.png",
+      "description": "Woman's Polo T-Shirt"
+    },
+    {
+      "id": 3,
+      "price": 1500,
+      "name": null,
+      "sex": "Man",
+      "url": "t-shirt.png",
+      "description": "Man's Polo T-Shirt"
+    },
+    {
+      "id": 4,
+      "price": 999,
+      "name": null,
+      "sex": "Girl",
+      "url": "t-shirt.png",
+      "description": "Girl's Polo T-Shirt"
+    },
+    {
+      "id": 5,
+      "price": 799,
+      "name": null,
+      "sex": "Boy",
+      "url": "t-shirt.png",
+      "description": "Boy's Polo T-Shirt"
+    },
+    {
+      "id": 6,
+      "price": 699,
+      "name": null,
+      "sex": "Kid",
+      "url": "t-shirt.png",
+      "description": "Kid's Polo T-Shirt"
+    },
+    {
+      "id": 7,
+      "price": 599,
+      "name": null,
+      "sex": "Woman",
+      "url": "t-shirt.png",
+      "description": "Woman's Polo T-Shirt"
+    },
+    {
+      "id": 8,
+      "price": 1199,
+      "name": null,
+      "sex": "Man",
+      "url": "t-shirt.png",
+      "description": "Man's Polo T-Shirt"
+    },
+    {
+      "id": 9,
+      "price": 2599,
+      "name": null,
+      "sex": "Girl",
+      "url": "t-shirt.png",
+      "description": "Girl's Polo T-Shirt"
+    },
+    {
+      "id": 10,
+      "price": 1299,
+      "name": null,
+      "sex": "Boy",
+      "url": "t-shirt.png",
+      "description": "Boy's Polo T-Shirt"
+    },
+    {
+      "id": 11,
+      "price": 599,
+      "name": null,
+      "sex": "Kid",
+      "url": "shirt.jpg",
+      "description": "Kid's Formal Shirt"
+    },
+    {
+      "id": 12,
+      "price": 799,
+      "name": null,
+      "sex": "Woman",
+      "url": "shirt.jpg",
+      "description": "Woman's Formal Shirt"
+    },
+    {
+      "id": 13,
+      "price": 500,
+      "name": null,
+      "sex": "Man",
+      "url": "shirt.jpg",
+      "description": "Man's Formal Shirt"
+    },
+    {
+      "id": 14,
+      "price": 1000,
+      "name": null,
+      "sex": "Girl",
+      "url": "shirt.jpg",
+      "description": "Girl's Formal Shirt"
+    },
+    {
+      "id": 15,
+      "price": 1500,
+      "name": null,
+      "sex": "Boy",
+      "url": "shirt.jpg",
+      "description": "Boy's Formal Shirt"
+    },
+    {
+      "id": 16,
+      "price": 999,
+      "name": null,
+      "sex": "Kid",
+      "url": "shirt.jpg",
+      "description": "Kid's Formal Shirt"
+    },
+    {
+      "id": 17,
+      "price": 799,
+      "name": null,
+      "sex": "Woman",
+      "url": "shirt.jpg",
+      "description": "Woman's Formal Shirt"
+    },
+    {
+      "id": 18,
+      "price": 699,
+      "name": null,
+      "sex": "Man",
+      "url": "shirt.jpg",
+      "description": "Man's Formal Shirt"
+    },
+    {
+      "id": 19,
+      "price": 599,
+      "name": null,
+      "sex": "Girl",
+      "url": "shirt.jpg",
+      "description": "Girl's Formal Shirt"
+    },
+    {
+      "id": 20,
+      "price": 1199,
+      "name": null,
+      "sex": "Boy",
+      "url": "shirt.jpg",
+      "description": "Boy's Formal Shirt"
+    }
+  ],
+  "pageable": {
+    "sort": {
+      "sorted": false,
+      "unsorted": true
+    },
+    "offset": 0,
+    "pageSize": 20,
+    "pageNumber": 0,
+    "unpaged": false,
+    "paged": true
+  },
+  "last": false,
+  "totalPages": 1,
+  "totalElements": 20,
+  "size": 20,
+  "number": 0,
+  "sort": {
+    "sorted": false,
+    "unsorted": true
+  },
+  "numberOfElements": 20,
+  "first": true
+}

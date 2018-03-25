@@ -1,0 +1,82 @@
+[
+  {
+    "id": 11,
+    "price": 599,
+    "name": null,
+    "sex": "Kid",
+    "url": "shirt.jpg",
+    "description": "Kid's Formal Shirt"
+  },
+  {
+    "id": 12,
+    "price": 799,
+    "name": null,
+    "sex": "Woman",
+    "url": "shirt.jpg",
+    "description": "Woman's Formal Shirt"
+  },
+  {
+    "id": 13,
+    "price": 500,
+    "name": null,
+    "sex": "Man",
+    "url": "shirt.jpg",
+    "description": "Man's Formal Shirt"
+  },
+  {
+    "id": 14,
+    "price": 1000,
+    "name": null,
+    "sex": "Girl",
+    "url": "shirt.jpg",
+    "description": "Girl's Formal Shirt"
+  },
+  {
+    "id": 15,
+    "price": 1500,
+    "name": null,
+    "sex": "Boy",
+    "url": "shirt.jpg",
+    "description": "Boy's Formal Shirt"
+  },
+  {
+    "id": 16,
+    "price": 999,
+    "name": null,
+    "sex": "Kid",
+    "url": "shirt.jpg",
+    "description": "Kid's Formal Shirt"
+  },
+  {
+    "id": 17,
+    "price": 799,
+    "name": null,
+    "sex": "Woman",
+    "url": "shirt.jpg",
+    "description": "Woman's Formal Shirt"
+  },
+  {
+    "id": 18,
+    "price": 699,
+    "name": null,
+    "sex": "Man",
+    "url": "shirt.jpg",
+    "description": "Man's Formal Shirt"
+  },
+  {
+    "id": 19,
+    "price": 599,
+    "name": null,
+    "sex": "Girl",
+    "url": "shirt.jpg",
+    "description": "Girl's Formal Shirt"
+  },
+  {
+    "id": 20,
+    "price": 1199,
+    "name": null,
+    "sex": "Boy",
+    "url": "shirt.jpg",
+    "description": "Boy's Formal Shirt"
+  }
+]

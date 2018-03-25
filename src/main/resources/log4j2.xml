@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Configuration>
+
+    <Properties>
+        <Property name="LOG_PATTERN">
+            %d{yyyy-MM-dd HH:mm:ss.SSS} %5p ${hostName} --- [%15.15t] %-40.40c{1.} : %m%n%ex
+        </Property>
+    </Properties>
+
+    <Appenders>
+        <Console name="console_appender" target="SYSTEM_OUT" follow="true">
+            <PatternLayout pattern="${LOG_PATTERN}"/>
+        </Console>
+    </Appenders>
+
+
+    <Loggers>
+        <Logger name="com.easy.mail" level="debug" additivity="false">
+            <AppenderRef ref="kafka_play_console_appender" />
+        </Logger>
+
+        <Logger name="org.springframework" level="debug" additivity="false">
+            <AppenderRef ref="kafka_play_console_appender"/>
+        </Logger>
+
+        <Root level="info">
+            <AppenderRef ref="kafka_play_console_appender" />
+        </Root>
+
+    </Loggers>
+</Configuration>
