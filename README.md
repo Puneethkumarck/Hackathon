@@ -6,6 +6,8 @@ Below is the Hackthon Problem detial
 ====================================
 ### Easy Fashions is a very small online eCom unit that sells clothing and accessories. Rest APIs are built on Spring boot framework to address the below mentioned functions. Write Unit Test cases using Junit , MockMVC and Mockito. 
 
+#### 16 hours duration to solve the problem hosted in hacker rank
+
 
 ### Function related to Products, Brands and Categories
 - Load Master data to database
